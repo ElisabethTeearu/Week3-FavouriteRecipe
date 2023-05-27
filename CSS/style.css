@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Fleur+De+Leah&display=swap');
+body {
+    background-color: rgba(48, 76, 95, 0.566);
+}
+
+.heading {
+    text-align: center;
+}
+
+.recipe-heading {
+    color: rgba(222, 205, 197, 0.784);
+    font-family: 'Orbitron', cursive;
+    font-size: 5rem;
+}
+
+.img {
+    text-align: center;
+    scale: 1,5;
+}
+
+.heading2 {
+text-align: center;
+font-family: 'Orbitron', cursive;
+color: rgba(225, 216, 206, 0.784);
+}
+
+.ingredients {
+    text-align: center;
+    border: 1px solid hsla(215, 20%, 18%, 0.77);
+    width: 40%;
+    margin: 0 auto;
+    color: hsla(0, 0%, 0%, 0.844);
+}
+
+.instructions {
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.footer {
+    text-align: center ;
+}
